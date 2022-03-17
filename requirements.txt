@@ -121,7 +121,6 @@ pyls-mypy @ git+https://github.com/tomv564/pyls-mypy.git@3b105b491a42eec304f19e6
 PyMsgBox==1.0.9
 pyparsing==3.0.7
 pyperclip==1.8.2
-pypiwin32==223
 PyRect==0.1.4
 pyrsistent==0.18.1
 PyScreeze==0.1.28
